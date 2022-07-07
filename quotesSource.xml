@@ -1,15 +1,6 @@
-<xml version="1.0" encoding="utf-8"?>
-
-<frames>
-
-    <frame> <!-- DEFAULT -->
-        <quote>
-            Is not what we do, but how and why we do
-        </quote>
-
-        <backgroundImage>
-            https://github.com/alvessss/QuotesSource/blob/master/backgroundImages/road.jpg
-        </backgroundImage>
-    </frame>
-
-</frames>
+<?xml version="1.0"?>
+<DATA_FETCH>
+<QUOTES>
+<FRAME PHRASE="hello world" image="https://github.com/alvessss/QuotesSource/blob/master/backgroundImages/road.jpg"/>
+</QUOTES>
+</DATA_FETCH>
