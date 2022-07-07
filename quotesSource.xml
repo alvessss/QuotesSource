@@ -1,0 +1,15 @@
+<xml version="1.0" encoding="utf-8"?>
+
+<frames>
+
+    <frame> <!-- DEFAULT -->
+        <quote>
+            Is not what we do, but how and why we do
+        </quote>
+
+        <backgroundImage>
+            https://google.com/favicon.ico
+        </backgroundImage>
+    </frame>
+
+</frames>
